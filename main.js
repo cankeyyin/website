@@ -35,7 +35,7 @@ function random(){
      if (number == 9){
          img.src = "./img/test10.jpeg";
      }
-     img.src = "./img/test4.png";
+     img.src = "./img/test6.png";
      console.log(number);
 
 
